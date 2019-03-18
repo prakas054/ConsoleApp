@@ -1,0 +1,6 @@
+D:\DotNet_Program\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe.config
+D:\DotNet_Program\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+D:\DotNet_Program\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+D:\DotNet_Program\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.csprojResolveAssemblyReference.cache
+D:\DotNet_Program\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.exe
+D:\DotNet_Program\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.pdb
